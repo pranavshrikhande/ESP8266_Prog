@@ -1,0 +1,2 @@
+ssid = "MYSSID"
+password = "PRANAV"
